@@ -1,0 +1,15 @@
+{
+  "configurations": {
+    "run": {
+      "adapter": "vscode-node",
+      "configuration": {
+        "request": "attach",
+        "protocol": "inspector",
+        "stopOnEntry": true,
+        "console": "integratedTerminal",
+        "cwd": "${workspaceRoot}"
+      }
+    }
+  }
+}
+
