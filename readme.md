@@ -47,7 +47,7 @@ Dentro do diretório do projeto pela primeira vez, você deve se certificar que 
 }
 ```
 
-Com as configurações feitas de forma correnta, pode-se utilizar o comando `yarn` para instalar as dependências, então os seguintes scripts podem ser executados:
+Com as configurações feitas de forma correta, pode-se utilizar o comando `yarn` para instalar as dependências, então os seguintes scripts podem ser executados:
 
 #### `yarn typeorm migration:run`
 
